@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Academic</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Jun 2021 22:06:19 +0800</lastBuildDate>
+    <image>
+      <url>/media/icon_hub7b824857f50471dfd8095cc66d7710e_12028_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
+    
+    <item>
+      <title>Monologue</title>
+      <link>/post/monologue/</link>
+      <pubDate>Fri, 04 Jun 2021 22:06:19 +0800</pubDate>
+      <guid>/post/monologue/</guid>
+      <description>&lt;p&gt;I am an optimistic and cheerful person, I like to make friends with different people, I like to experience projects and games that I have not played before, and keep my enthusiasm and curiosity about life. As Pushkin said, &amp;ldquo;If life deceives you, don’t be sad, everything will pass, and what has passed will become cordial nostalgia.&amp;rdquo;
+Now, as a student and researcher, I work in the School of Energy and Power Engineering, Huazhong University of Science and Technology. As an engineer, I need to treat our projects with a rigorous attitude. Therefore, I need to invest more time in the laboratory. Therefore, I often adhere to the rhythm of life from coming to work very early to going back to rest very late.
+In addition to being a researcher, I am also a member of the Red Cross. I will often play with mentally handicapped children so that they can experience more fun; I will also go to the stray cat and dog base to be a responsible &amp;ldquo;shovel&amp;rdquo;. Shiguan&amp;quot;; I also participated in various first aid training, and held first aid training activities, popular science first aid knowledge, helping others is my pleasure, because &amp;ldquo;giving someone a rose, the hand has a lingering fragrance.&amp;rdquo;
+To be an ideal scientific researcher is my pursuit. Of course, life also needs adjustment. Outside of research, I am an outgoing person and it is easy to get along with others. I have various hobbies, such as running, cycling, Tai Chi, fitness, jazz, singing, etc.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

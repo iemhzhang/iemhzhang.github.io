@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> publications | Academic</title>
+    <link>/-publication/</link>
+      <atom:link href="/-publication/index.xml" rel="self" type="application/rss+xml" />
+    <description> publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Jun 2021 22:18:34 +0800</lastBuildDate>
+    <image>
+      <url>/media/icon_hub7b824857f50471dfd8095cc66d7710e_12028_512x512_fill_lanczos_center_2.png</url>
+      <title> publications</title>
+      <link>/-publication/</link>
+    </image>
+    
+    <item>
+      <title>Research on Electronic Expansion Valve and Compressor Liquid Floodback Fault Diagnosis Based on Deep Transfer Learning</title>
+      <link>/-publication/research-on-electronic-expansion-valve-and-compressor-liquid-floodback-fault-diagnosis-based-on-deep-transfer-learning/</link>
+      <pubDate>Sun, 06 Jun 2021 22:18:34 +0800</pubDate>
+      <guid>/-publication/research-on-electronic-expansion-valve-and-compressor-liquid-floodback-fault-diagnosis-based-on-deep-transfer-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

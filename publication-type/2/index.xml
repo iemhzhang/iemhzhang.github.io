@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Academic</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 May 2020 15:50:16 +0800</lastBuildDate>
+    <image>
+      <url>/media/icon_hub7b824857f50471dfd8095cc66d7710e_12028_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>The Energy Efficiency Improvement Strategy of Chillers Using Artificial Neural Network Algorithms</title>
+      <link>/publication/energy_efficiency_improvement_strategy_of_chiller_based_on_artificial/</link>
+      <pubDate>Sat, 23 May 2020 15:50:16 +0800</pubDate>
+      <guid>/publication/energy_efficiency_improvement_strategy_of_chiller_based_on_artificial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
