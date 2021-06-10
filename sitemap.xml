@@ -12,13 +12,16 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication-type/0/</loc>
-    <lastmod>2021-06-06T22:23:12+08:00</lastmod>
+    <lastmod>2021-06-10T12:51:19+08:00</lastmod>
   </url><url>
     <loc>/publication_types/</loc>
-    <lastmod>2021-06-06T22:23:12+08:00</lastmod>
+    <lastmod>2021-06-10T12:51:19+08:00</lastmod>
   </url><url>
     <loc>/publication/</loc>
-    <lastmod>2021-06-06T22:23:12+08:00</lastmod>
+    <lastmod>2021-06-10T12:51:19+08:00</lastmod>
+  </url><url>
+    <loc>/publication/the-energy-efficiency-improvement-strategy-of-chillers-using-artificial-neural-network-algorithms/</loc>
+    <lastmod>2021-06-10T12:51:19+08:00</lastmod>
   </url><url>
     <loc>/publication/research-on-electronic-expansion-valve-and-compressor-liquid-floodback-fault-diagnosis-based-on-deep-transfer-learning/</loc>
     <lastmod>2021-06-06T22:23:12+08:00</lastmod>
@@ -28,9 +31,6 @@
   </url><url>
     <loc>/-publication/research-on-electronic-expansion-valve-and-compressor-liquid-floodback-fault-diagnosis-based-on-deep-transfer-learning/</loc>
     <lastmod>2021-06-06T22:18:34+08:00</lastmod>
-  </url><url>
-    <loc>/project-of-tianjin-university-of-commerce_-research-on-air-distribution-law-of-cold-storage/</loc>
-    <lastmod>2021-06-05T12:02:00+08:00</lastmod>
   </url><url>
     <loc>/energy-consumption-prediction-of-rf-wanda-realm-hotel-in-state-grid-based-on-deep-learning-algorithm/</loc>
     <lastmod>2021-06-05T11:29:02+08:00</lastmod>
@@ -61,12 +61,6 @@
   </url><url>
     <loc>/publication/research_on_energy_efficiency_of_office_buildings_vrf_system_in_china/</loc>
     <lastmod>2020-06-03T21:09:42+08:00</lastmod>
-  </url><url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2020-05-23T15:50:16+08:00</lastmod>
-  </url><url>
-    <loc>/publication/energy_efficiency_improvement_strategy_of_chiller_based_on_artificial/</loc>
-    <lastmod>2020-05-23T15:50:16+08:00</lastmod>
   </url><url>
     <loc>/project/energy-consumption-prediction-of-rf-wanda-realm-hotel-in-state-grid-based-on-deep-learning-algorithm/</loc>
     <lastmod>2020-05-05T12:12:17+08:00</lastmod>
@@ -101,23 +95,13 @@
     <loc>/patent/a_co2_automotive_air_conditioning_system_based-on_waste_heat_and_supercooling/</loc>
     <lastmod>2017-10-01T21:21:38+08:00</lastmod>
   </url><url>
-    <loc>/project-of-tianjin-university-of-commerce_research-on-air-distribution-law-of-cold-storage/</loc>
-    <lastmod>2016-06-05T12:07:04+08:00</lastmod>
-  </url><url>
     <loc>/project/project-of-tianjin-university-of-commerce_-research-on-air-distribution-law-of-cold-storage/</loc>
     <lastmod>2016-06-05T12:06:33+08:00</lastmod>
-  </url><url>
-    <loc>/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/admin/</loc>
   </url><url>
     <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
 </urlset>

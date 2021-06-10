@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Jun 2021 22:23:12 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Jun 2021 12:51:19 +0800</lastBuildDate>
     <image>
       <url>/media/icon_hub7b824857f50471dfd8095cc66d7710e_12028_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,13 +13,19 @@
     </image>
     
     <item>
+      <title>The Energy Efficiency Improvement Strategy of Chillers Using Artificial Neural Network Algorithms</title>
+      <link>/publication/the-energy-efficiency-improvement-strategy-of-chillers-using-artificial-neural-network-algorithms/</link>
+      <pubDate>Thu, 10 Jun 2021 12:51:19 +0800</pubDate>
+      <guid>/publication/the-energy-efficiency-improvement-strategy-of-chillers-using-artificial-neural-network-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Research on Electronic Expansion Valve and Compressor Liquid Floodback Fault Diagnosis Based on Deep Transfer Learning</title>
       <link>/publication/research-on-electronic-expansion-valve-and-compressor-liquid-floodback-fault-diagnosis-based-on-deep-transfer-learning/</link>
       <pubDate>Sun, 06 Jun 2021 22:23:12 +0800</pubDate>
       <guid>/publication/research-on-electronic-expansion-valve-and-compressor-liquid-floodback-fault-diagnosis-based-on-deep-transfer-learning/</guid>
-      <description>&lt;p&gt;In this study, 12 sets of experiments were carried out, and the electronic expansion valve fault data and the compressor normal operation and liquid floodback data were obtained to analyze the fault identification results of different distribution data and target sample data with less and unbalanced data. First of all, this thesis deploys the two-class fault recognition and multi-class fault recognition of variable refrigerant flow systems based on three commonly used deep transfer learning algorithms. They are the migration adaptive enhancement algorithm (TrAdaBoost) , the deep neural network transfer learning algorithm (DNN-TL) and Joint Distributed Adaptation Algorithm (JDA). Then the key parameters of the deep transfer learning model are optimized. Finally, the model is analyzed from evaluation indicators such as accuracy, sensitivity, specificity, and hit rate, and it is combined with the supervised algorithm model, extreme gradient boosting (XGBoost), and deep neural network. (DNN) and convolutional neural network (CNN) for comparison.
-The results show that, on the one hand, when compared with the traditional supervised learning algorithm model, TrAdaBoost is 46%-51% more accurate than XGBoost. Compared with DNN, DNN-TL increases by 1%-4%. On the other hand, when three different methods of deep transfer learning algorithms compare the results of binary classification and multi-class fault recognition, TrAdaBoost is 2%-9% higher than DNN-TL, and TrAdaBoost is 38%-55% higher than JDA. . The overall effect of TrAdaBoost model is slightly better than that of DNN-TL, which indicates that the deep transfer learning model has stronger generalization ability, and has a better diagnostic effect on data tasks with different distributions. Finally, as the size of the training data increases, the accuracy of DNN-TL is about 8% higher than that of DNN. For all training data sizes, especially in the small training data for electronic expansion valve fault identification, the accuracy of TrAdaBoost&amp;rsquo;s model is significantly higher. For DNN-TL, this proves the advantage of TrAdaBoost for transfer learning on small training data.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -62,14 +68,6 @@ The results show that, on the one hand, when compared with the traditional super
       <link>/publication/research_on_energy_efficiency_of_office_buildings_vrf_system_in_china/</link>
       <pubDate>Wed, 03 Jun 2020 21:09:42 +0800</pubDate>
       <guid>/publication/research_on_energy_efficiency_of_office_buildings_vrf_system_in_china/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Energy Efficiency Improvement Strategy of Chillers Using Artificial Neural Network Algorithms</title>
-      <link>/publication/energy_efficiency_improvement_strategy_of_chiller_based_on_artificial/</link>
-      <pubDate>Sat, 23 May 2020 15:50:16 +0800</pubDate>
-      <guid>/publication/energy_efficiency_improvement_strategy_of_chiller_based_on_artificial/</guid>
       <description></description>
     </item>
     

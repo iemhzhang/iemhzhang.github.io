@@ -33,13 +33,19 @@
     </item>
     
     <item>
+      <title>The Energy Efficiency Improvement Strategy of Chillers Using Artificial Neural Network Algorithms</title>
+      <link>/publication/the-energy-efficiency-improvement-strategy-of-chillers-using-artificial-neural-network-algorithms/</link>
+      <pubDate>Thu, 10 Jun 2021 12:51:19 +0800</pubDate>
+      <guid>/publication/the-energy-efficiency-improvement-strategy-of-chillers-using-artificial-neural-network-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Research on Electronic Expansion Valve and Compressor Liquid Floodback Fault Diagnosis Based on Deep Transfer Learning</title>
       <link>/publication/research-on-electronic-expansion-valve-and-compressor-liquid-floodback-fault-diagnosis-based-on-deep-transfer-learning/</link>
       <pubDate>Sun, 06 Jun 2021 22:23:12 +0800</pubDate>
       <guid>/publication/research-on-electronic-expansion-valve-and-compressor-liquid-floodback-fault-diagnosis-based-on-deep-transfer-learning/</guid>
-      <description>&lt;p&gt;In this study, 12 sets of experiments were carried out, and the electronic expansion valve fault data and the compressor normal operation and liquid floodback data were obtained to analyze the fault identification results of different distribution data and target sample data with less and unbalanced data. First of all, this thesis deploys the two-class fault recognition and multi-class fault recognition of variable refrigerant flow systems based on three commonly used deep transfer learning algorithms. They are the migration adaptive enhancement algorithm (TrAdaBoost) , the deep neural network transfer learning algorithm (DNN-TL) and Joint Distributed Adaptation Algorithm (JDA). Then the key parameters of the deep transfer learning model are optimized. Finally, the model is analyzed from evaluation indicators such as accuracy, sensitivity, specificity, and hit rate, and it is combined with the supervised algorithm model, extreme gradient boosting (XGBoost), and deep neural network. (DNN) and convolutional neural network (CNN) for comparison.
-The results show that, on the one hand, when compared with the traditional supervised learning algorithm model, TrAdaBoost is 46%-51% more accurate than XGBoost. Compared with DNN, DNN-TL increases by 1%-4%. On the other hand, when three different methods of deep transfer learning algorithms compare the results of binary classification and multi-class fault recognition, TrAdaBoost is 2%-9% higher than DNN-TL, and TrAdaBoost is 38%-55% higher than JDA. . The overall effect of TrAdaBoost model is slightly better than that of DNN-TL, which indicates that the deep transfer learning model has stronger generalization ability, and has a better diagnostic effect on data tasks with different distributions. Finally, as the size of the training data increases, the accuracy of DNN-TL is about 8% higher than that of DNN. For all training data sizes, especially in the small training data for electronic expansion valve fault identification, the accuracy of TrAdaBoost&amp;rsquo;s model is significantly higher. For DNN-TL, this proves the advantage of TrAdaBoost for transfer learning on small training data.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -47,14 +53,6 @@ The results show that, on the one hand, when compared with the traditional super
       <link>/-publication/research-on-electronic-expansion-valve-and-compressor-liquid-floodback-fault-diagnosis-based-on-deep-transfer-learning/</link>
       <pubDate>Sun, 06 Jun 2021 22:18:34 +0800</pubDate>
       <guid>/-publication/research-on-electronic-expansion-valve-and-compressor-liquid-floodback-fault-diagnosis-based-on-deep-transfer-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project of Tianjin University of Commerce_ Research on Air Distribution Law of Cold Storage</title>
-      <link>/project-of-tianjin-university-of-commerce_-research-on-air-distribution-law-of-cold-storage/</link>
-      <pubDate>Sat, 05 Jun 2021 12:02:00 +0800</pubDate>
-      <guid>/project-of-tianjin-university-of-commerce_-research-on-air-distribution-law-of-cold-storage/</guid>
       <description></description>
     </item>
     
@@ -83,8 +81,7 @@ To be an ideal scientific researcher is my pursuit. Of course, life also needs a
       <link>/patent/load_forecasting_control_method_and_system_of_chiller_based_on_side-cloud_collaborative_framework/</link>
       <pubDate>Tue, 01 Jun 2021 21:18:05 +0800</pubDate>
       <guid>/patent/load_forecasting_control_method_and_system_of_chiller_based_on_side-cloud_collaborative_framework/</guid>
-      <description>&lt;p&gt;The invention discloses a chiller load forecasting control method and system based on a side-cloud collaborative framework, and belongs to the field of optimized control. The present invention proposes a hierarchical optimization control of chillers using edge computing and cloud computing integration. Real-time load forecasting and division and data preprocessing at the edge, control parameter matrix under different load rates, training and updating of load forecasting models and energy consumption fitting models in the cloud, optimization of chiller control parame ters, using the corresponding models to pass intelligence The optimization algorithm seeks the input of the minimum value of the adaptive function to obtain the optimal control parameter combination. The invention makes full use of edge end resources for data preprocessing and control parameter matrix storage and control parameter transmission, reduces cloud computing pressure and reduces the impact of data transmission delay, so as to achieve the effect of rapid real-time update and optimization control, and can better Fitting the actual operating data, under the condition of meeting the basic load, significantly reducing the energy consumption of the entire system&lt;/p&gt;
-</description>
+      <description>&lt;p style=&#34;text-align:justify; text-justify:inter-ideograph;&#34;&gt;The invention discloses a chiller load forecasting control method and system based on a side-cloud collaborative framework, and belongs to the field of optimized control. The present invention proposes a hierarchical optimization control of chillers using edge computing and cloud computing integration. Real-time load forecasting and division and data preprocessing at the edge, control parameter matrix under different load rates, training and updating of load forecasting models and energy consumption fitting models in the cloud, optimization of chiller control parame ters, using the corresponding models to pass intelligence The optimization algorithm seeks the input of the minimum value of the adaptive function to obtain the optimal control parameter combination. The invention makes full use of edge end resources for data preprocessing and control parameter matrix storage and control parameter transmission, reduces cloud computing pressure and reduces the impact of data transmission delay, so as to achieve the effect of rapid real-time update and optimization control, and can better Fitting the actual operating data, under the condition of meeting the basic load, significantly reducing the energy consumption of the entire system.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -131,19 +128,11 @@ To be an ideal scientific researcher is my pursuit. Of course, life also needs a
     </item>
     
     <item>
-      <title>The Energy Efficiency Improvement Strategy of Chillers Using Artificial Neural Network Algorithms</title>
-      <link>/publication/energy_efficiency_improvement_strategy_of_chiller_based_on_artificial/</link>
-      <pubDate>Sat, 23 May 2020 15:50:16 +0800</pubDate>
-      <guid>/publication/energy_efficiency_improvement_strategy_of_chiller_based_on_artificial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Energy Consumption Prediction of R&amp;F Wanda Realm Hotel in State Grid Based on Deep Learning Algorithm</title>
       <link>/project/energy-consumption-prediction-of-rf-wanda-realm-hotel-in-state-grid-based-on-deep-learning-algorithm/</link>
       <pubDate>Tue, 05 May 2020 12:12:17 +0800</pubDate>
       <guid>/project/energy-consumption-prediction-of-rf-wanda-realm-hotel-in-state-grid-based-on-deep-learning-algorithm/</guid>
-      <description>&lt;p&gt;Use DBN algorithm to predict hotel energy consumption, and cuckoo search algorithm to optimize.
+      <description>&lt;p style=&#34;text-align:justify; text-justify:inter-ideograph;&#34;&gt;Use DBN algorithm to predict hotel energy consumption, and cuckoo search algorithm to optimize. 
 Finally, the average absolute error is 1.05, the mean square error is 1.36, and the coefficient of determination is 0.98.&lt;/p&gt;
 </description>
     </item>
@@ -161,11 +150,10 @@ Finally, the average absolute error is 1.05, the mean square error is 1.36, and 
       <link>/project/optimization_analysis_of_training_data_for_fault_diagnosis_of_refrigeration_system_based_on_dynamic_recognition_and_cluster_analysis/</link>
       <pubDate>Thu, 05 Sep 2019 11:54:53 +0800</pubDate>
       <guid>/project/optimization_analysis_of_training_data_for_fault_diagnosis_of_refrigeration_system_based_on_dynamic_recognition_and_cluster_analysis/</guid>
-      <description>&lt;p&gt;The use of deep learning models can detect liquid return failures more efficiently, with an accuracy rate of 99.86%;
+      <description>&lt;p style=&#34;text-align:justify; text-justify:inter-ideograph;&#34;&gt;The use of deep learning models can detect liquid return failures more efficiently, with an accuracy rate of 99.86%;
 Compared with the decision tree model with supervised algorithm, there is no need for correlation analysis and pruning process. Compared with the cluster analysis algorithm model of unsupervised algorithm, there is no need for correlation and principal component analysis process. The processing process is simple and easy to operate and efficient;
 Use Keras to build a deep neural network model;
-Compared with support vector machines, neural networks, and random forest algorithms, the process of building deep neural network models is simple and efficient;&lt;/p&gt;
-</description>
+Compared with support vector machines, neural networks, and random forest algorithms, the process of building deep neural network models is simple and efficient;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -173,11 +161,12 @@ Compared with support vector machines, neural networks, and random forest algori
       <link>/project/research-on-the-fault-diagnosis-method-of-refrigeration-and-air-conditioning-based-on-pattern-recognition-and-integrated-learning-under-the-framework-of-big-data/</link>
       <pubDate>Sun, 01 Sep 2019 11:10:23 +0800</pubDate>
       <guid>/project/research-on-the-fault-diagnosis-method-of-refrigeration-and-air-conditioning-based-on-pattern-recognition-and-integrated-learning-under-the-framework-of-big-data/</guid>
-      <description>&lt;p&gt;•	The use of deep learning models can detect liquid return failures more efficiently, with an accuracy rate of 99.86%;
+      <description>&lt;p style=&#34;text-align:justify; text-justify:inter-ideograph;&#34;&gt;
+•	The use of deep learning models can detect liquid return failures more efficiently, with an accuracy rate of 99.86%;
 •	Compared with the decision tree model with supervised algorithm, there is no need for correlation analysis and pruning process. Compared with the cluster analysis algorithm model of unsupervised algorithm, there is no need for correlation and principal component analysis process. The processing process is simple and easy to operate and efficient;
 •	Use Keras to build a deep neural network model;
-•	Compared with support vector machines, neural networks, and random forest algorithms, the process of building deep neural network models is simple and efficient;&lt;/p&gt;
-</description>
+•	Compared with support vector machines, neural networks, and random forest algorithms, the process of building deep neural network models is simple and efficient;
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -314,7 +303,7 @@ Three
       <link>/patent/a_waste_heat-driven_absorption_refrigeration_auxiliary_subcooled_co2_automobile_air_conditioner/</link>
       <pubDate>Sun, 01 Oct 2017 21:26:38 +0800</pubDate>
       <guid>/patent/a_waste_heat-driven_absorption_refrigeration_auxiliary_subcooled_co2_automobile_air_conditioner/</guid>
-      <description>&lt;p&gt;The invention discloses a CO2 automobile air conditioner with waste heat driven absorption refrigeration and auxiliary subcooling. The high-temperature tail gas exhaust pipe of the internal combustion engine of the present invention is connected to the generator, the refrigerant vapor outlet of the generator, the condenser, the throttle valve one, and the refrigerant inlet of the evaporator one are connected in sequence, and the refrigerant outlet of the evaporator one, the absorber, and the The solution pump and the solution inlet of the heat exchanger are connected in sequence, and the solution outlet of the heat exchanger is connected to the generator; the refrigerant outlet of the generator is connected to the refrigerant inlet of the heat exchanger, and the refrigerant outlet of the heat exchanger is connected to the absorber through the second throttle valve. ; The compressor outlet is connected to the throttle valve through the gas cooler and connected to the compressor inlet. The present invention is to cool the CO2 at the outlet of the gas cooler, the evaporation temperature of which is higher, higher than the evaporation temperature of the CO2 system, and the two systems are coordinated and matched with each other to jointly improve the overall efficiency of the cycle&lt;/p&gt;
+      <description>&lt;p style=&#34;text-align:justify; text-justify:inter-ideograph;&#34;&gt;The invention discloses a CO2 automobile air conditioner with waste heat driven absorption refrigeration and auxiliary subcooling. The high-temperature tail gas exhaust pipe of the internal combustion engine of the present invention is connected to the generator, the refrigerant vapor outlet of the generator, the condenser, the throttle valve one, and the refrigerant inlet of the evaporator one are connected in sequence, and the refrigerant outlet of the evaporator one, the absorber, and the The solution pump and the solution inlet of the heat exchanger are connected in sequence, and the solution outlet of the heat exchanger is connected to the generator; the refrigerant outlet of the generator is connected to the refrigerant inlet of the heat exchanger, and the refrigerant outlet of the heat exchanger is connected to the absorber through the second throttle valve. ; The compressor outlet is connected to the throttle valve through the gas cooler and connected to the compressor inlet. The present invention is to cool the CO2 at the outlet of the gas cooler, the evaporation temperature of which is higher, higher than the evaporation temperature of the CO2 system, and the two systems are coordinated and matched with each other to jointly improve the overall efficiency of the cycle.&lt;/p&gt;
 </description>
     </item>
     
@@ -323,8 +312,7 @@ Three
       <link>/patent/co2_marine_refrigeration_system_with_subcooling_assisted_by_absorption_and_thermoelectric_refrigeration/</link>
       <pubDate>Sun, 01 Oct 2017 21:24:55 +0800</pubDate>
       <guid>/patent/co2_marine_refrigeration_system_with_subcooling_assisted_by_absorption_and_thermoelectric_refrigeration/</guid>
-      <description>&lt;p&gt;The invention discloses a CO2 marine refrigeration system with absorption and thermoelectric refrigeration in cooperation with auxiliary subcooling. The solution outlet of the absorber of the present invention is connected to the solution inlet of the generator through a solution pump, the refrigerant vapor outlet of the generator is connected to the second refrigerant inlet of the evaporator through a condenser and a pressure reducing valve, and the second refrigerant outlet of the evaporator is connected to the absorber; The absorber is connected through a throttle valve; the compressor outlet, gas cooler, thermoelectric subcooler, evaporator two, expander and evaporator one inlet are connected in sequence, and the evaporator one outlet is connected to the compressor inlet; the power manager is connected to the expansion separately Machine and thermoelectric supercooler. The invention can cool the CO2 at the outlet of the gas cooler by recycling the waste heat and pressure, is easy to realize, and can reduce its temperature below the ambient temperature, and can significantly reduce the irreversible loss in the high-pressure CO2 throttling process&lt;/p&gt;
-</description>
+      <description>&lt;p style=&#34;text-align:justify; text-justify:inter-ideograph;&#34;&gt;The invention discloses a CO2 marine refrigeration system with absorption and thermoelectric refrigeration in cooperation with auxiliary subcooling. The solution outlet of the absorber of the present invention is connected to the solution inlet of the generator through a solution pump, the refrigerant vapor outlet of the generator is connected to the second refrigerant inlet of the evaporator through a condenser and a pressure reducing valve, and the second refrigerant outlet of the evaporator is connected to the absorber; The absorber is connected through a throttle valve; the compressor outlet, gas cooler, thermoelectric subcooler, evaporator two, expander and evaporator one inlet are connected in sequence, and the evaporator one outlet is connected to the compressor inlet; the power manager is connected to the expansion separately Machine and thermoelectric supercooler. The invention can cool the CO2 at the outlet of the gas cooler by recycling the waste heat and pressure, is easy to realize, and can reduce its temperature below the ambient temperature, and can significantly reduce the irreversible loss in the high-pressure CO2 throttling process&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -332,8 +320,7 @@ Three
       <link>/patent/a_co2_automobile_air-conditioning_system_based_on_waste_heat_and_pressure_combined_with_auxiliary_subcooling/</link>
       <pubDate>Sun, 01 Oct 2017 21:22:43 +0800</pubDate>
       <guid>/patent/a_co2_automobile_air-conditioning_system_based_on_waste_heat_and_pressure_combined_with_auxiliary_subcooling/</guid>
-      <description>&lt;p&gt;The invention discloses a CO2 automobile air conditioning system based on waste heat and pressure combined with auxiliary subcooling. The CO2 automobile air conditioning system of the present invention includes a compressor, an evaporator, a gas cooler, a throttle valve, a thermoelectric generator, a thermoelectric subcooler, a thermoelectric generator and an engine; the evaporator outlet is connected to the compressor inlet, and the compressor outlet is connected to gas cooling The inlet of the gas cooler and the outlet of the gas cooler are connected to the inlet of the thermoelectric subcooler, the outlet of the thermoelectric subcooler is connected to the inlet of the throttle valve, the outlet of the expander is connected to the inlet of the evaporator; the outlet of the engine gas pipe is connected to the thermoelectric generator, and the expander is connected to the power manager, power management The generators are respectively connected to the thermoelectric subcooler and the thermoelectric generator. The invention uses the temperature difference between the high-temperature tail gas and the ambient air to output electric energy, which is used to drive the thermoelectric supercooler and improves the utilization rate of energy.&lt;/p&gt;
-</description>
+      <description>&lt;p style=&#34;text-align:justify; text-justify:inter-ideograph;&#34;&gt;The invention discloses a CO2 automobile air conditioning system based on waste heat and pressure combined with auxiliary subcooling. The CO2 automobile air conditioning system of the present invention includes a compressor, an evaporator, a gas cooler, a throttle valve, a thermoelectric generator, a thermoelectric subcooler, a thermoelectric generator and an engine; the evaporator outlet is connected to the compressor inlet, and the compressor outlet is connected to gas cooling The inlet of the gas cooler and the outlet of the gas cooler are connected to the inlet of the thermoelectric subcooler, the outlet of the thermoelectric subcooler is connected to the inlet of the throttle valve, the outlet of the expander is connected to the inlet of the evaporator; the outlet of the engine gas pipe is connected to the thermoelectric generator, and the expander is connected to the power manager, power management The generators are respectively connected to the thermoelectric subcooler and the thermoelectric generator. The invention uses the temperature difference between the high-temperature tail gas and the ambient air to output electric energy, which is used to drive the thermoelectric supercooler and improves the utilization rate of energy.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -341,19 +328,7 @@ Three
       <link>/patent/a_co2_automotive_air_conditioning_system_based-on_waste_heat_and_supercooling/</link>
       <pubDate>Sun, 01 Oct 2017 21:21:38 +0800</pubDate>
       <guid>/patent/a_co2_automotive_air_conditioning_system_based-on_waste_heat_and_supercooling/</guid>
-      <description>&lt;p&gt;The invention discloses a CO2 automobile air conditioning system based on waste heat and supercooling. The CO2 automobile air conditioning system of the present invention includes a compressor, an evaporator, a gas cooler, a throttle valve, a thermoelectric generator, a thermoelectric subcooler, a thermoelectric generator and an engine; the evaporator outlet is connected to the compressor inlet, and the compressor outlet is connected to gas cooling The inlet and outlet of the gas cooler are connected to the inlet of the thermoelectric subcooler, the outlet of the thermoelectric subcooler is connected to the inlet of the throttle valve, and the outlet of the throttle valve is connected to the inlet of the evaporator; the outlet of the engine gas pipe is connected to a thermoelectric generator, and the power manager is connected to the thermoelectric subcooler respectively. And thermoelectric generator. The invention uses the temperature difference between the high-temperature tail gas and the ambient air to output electric energy, which is used to drive the thermoelectric supercooler and improves the utilization rate of energy.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Project of Tianjin University of Commerce_Research on Air Distribution Law of Cold Storage</title>
-      <link>/project-of-tianjin-university-of-commerce_research-on-air-distribution-law-of-cold-storage/</link>
-      <pubDate>Sun, 05 Jun 2016 12:07:04 +0800</pubDate>
-      <guid>/project-of-tianjin-university-of-commerce_research-on-air-distribution-law-of-cold-storage/</guid>
-      <description>&lt;p&gt;This project uses a combination of simulation and experiment to study the airflow field of the cold storage, mainly studying the airflow field between the fruit box and the fruit box after the fruit box is placed in the cold storage.
-This project establishes a three-dimensional physical model, uses Ansys Icem CFD software for structural meshing, uses Fluent software for solving calculations, and uses Tecplot software for post-processing, and finally obtains the simulation content.
-The simulation of this project mainly studies the distribution of the airflow field between the fruit bins when the apples are pre-cooled. The boundary conditions in the simulation are measured experimentally&lt;/p&gt;
-</description>
+      <description>&lt;p style=&#34;text-align:justify; text-justify:inter-ideograph;&#34;&gt;The invention discloses a CO2 automobile air conditioning system based on waste heat and supercooling. The CO2 automobile air conditioning system of the present invention includes a compressor, an evaporator, a gas cooler, a throttle valve, a thermoelectric generator, a thermoelectric subcooler, a thermoelectric generator and an engine; the evaporator outlet is connected to the compressor inlet, and the compressor outlet is connected to gas cooling The inlet and outlet of the gas cooler are connected to the inlet of the thermoelectric subcooler, the outlet of the thermoelectric subcooler is connected to the inlet of the throttle valve, and the outlet of the throttle valve is connected to the inlet of the evaporator; the outlet of the engine gas pipe is connected to a thermoelectric generator, and the power manager is connected to the thermoelectric subcooler respectively. And thermoelectric generator. The invention uses the temperature difference between the high-temperature tail gas and the ambient air to output electric energy, which is used to drive the thermoelectric supercooler and improves the utilization rate of energy.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -361,23 +336,11 @@ The simulation of this project mainly studies the distribution of the airflow fi
       <link>/project/project-of-tianjin-university-of-commerce_-research-on-air-distribution-law-of-cold-storage/</link>
       <pubDate>Sun, 05 Jun 2016 12:06:33 +0800</pubDate>
       <guid>/project/project-of-tianjin-university-of-commerce_-research-on-air-distribution-law-of-cold-storage/</guid>
-      <description>&lt;p&gt;•	This project uses a combination of simulation and experiment to study the airflow field of the cold storage, mainly studying the airflow field between the fruit box and the fruit box after the fruit box is placed in the cold storage.
+      <description>&lt;p style=&#34;text-align:justify; text-justify:inter-ideograph;&#34;&gt;
+•	This project uses a combination of simulation and experiment to study the airflow field of the cold storage, mainly studying the airflow field between the fruit box and the fruit box after the fruit box is placed in the cold storage.
 •	This project establishes a three-dimensional physical model, uses Ansys Icem CFD software for structural meshing, uses Fluent software for solving calculations, and uses Tecplot software for post-processing, and finally obtains the simulation content.
-•	The simulation of this project mainly studies the distribution of the airflow field between the fruit bins when the apples are pre-cooled. The boundary conditions in the simulation are measured experimentally.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Example Project</title>
-      <link>/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
+•	The simulation of this project mainly studies the distribution of the airflow field between the fruit bins when the apples are pre-cooled. The boundary conditions in the simulation are measured experimentally.
+&lt;/p&gt;</description>
     </item>
     
     <item>
